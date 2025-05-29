@@ -22,6 +22,7 @@ return {
       lua = { "stylua" },
       python = { "isort", "black" },
       javascript = { "prettierd", "prettier", stop_after_first = true },
+      blade = { "duster" }
     },
     -- Set default options
     default_format_opts = {
